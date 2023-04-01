@@ -29,9 +29,9 @@ const Card = () => {
         <div className="mb-6">
           <img src={LogoImg} alt="" srcset="" />
         </div>
-        <h1 className="text-5xl mb-6 font-extrabold">Nike Air Max Pre-Day</h1>
+        <h1 className="text-5xl mb-6 font-extrabold">Ashwani NEW Max Pre-Day</h1>
         <p className="max-w-[300px] text-[#000000] mb-6">
-          Taking the classic look of heritage Nike Running into new realm, the
+          My Nike the classic look of heritage Nike Running into new realm, the
           Nike AIr Max Pre-Day brings you a fast-paced look that's ready for
           today's world.
         </p>
